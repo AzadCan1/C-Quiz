@@ -1,0 +1,68 @@
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.exe
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.deps.json
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.runtimeconfig.json
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.pdb
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\BouncyCastle.Cryptography.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Google.Protobuf.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Compression.LZ4.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Compression.LZ4.Streams.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Hash.xxHash.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\MySql.Data.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\System.IO.Pipelines.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\ZstdSharp.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\comerr64.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\gssapi64.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\krb5_64.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\krbcc64.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\Programmieren mit C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.AssemblyReference.cache
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.Form1.resources
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.Form2.resources
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.GenerateResource.cache
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.AssemblyInfoInputs.cache
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.AssemblyInfo.cs
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.Up2Date
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.dll
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\refint\Quiz.dll
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.pdb
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.genruntimeconfig.cache
+D:\Programmieren mit C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\ref\Quiz.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.exe
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.deps.json
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.runtimeconfig.json
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Quiz.pdb
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\BouncyCastle.Cryptography.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Google.Protobuf.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Compression.LZ4.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Compression.LZ4.Streams.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\K4os.Hash.xxHash.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\MySql.Data.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\System.IO.Pipelines.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\ZstdSharp.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\comerr64.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\gssapi64.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\krb5_64.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\krbcc64.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\C#\Quiz\Quiz\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.AssemblyReference.cache
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.Form1.resources
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.Form2.resources
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.GenerateResource.cache
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.AssemblyInfoInputs.cache
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.AssemblyInfo.cs
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.CoreCompileInputs.cache
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.csproj.Up2Date
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.dll
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\refint\Quiz.dll
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.pdb
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\Quiz.genruntimeconfig.cache
+D:\C#\Quiz\Quiz\obj\Debug\net8.0-windows10.0.17763.0\ref\Quiz.dll
